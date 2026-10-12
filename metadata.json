@@ -1,0 +1,6 @@
+{
+  "name": "APEX KINETIX — AI Personal Trainer & Form Coach",
+  "description": "AI-powered personal trainer, workout tracker, real-time biomechanical form analyzer, integrated meal and macro nutrition logger, community challenges, and live voice coaching with emergency hotline support (07057124133).",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
